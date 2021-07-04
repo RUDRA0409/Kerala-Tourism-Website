@@ -1,10 +1,9 @@
 # Kerala-Tourism-Website
 Hello👋
 
-This is a small website that I built using Bootstrap and other basic components as part of my web development studies. Basically, this website provides information about different tourist places in Kerala and The user has the option to log in or sign up to their private accounts(no backend, just UI).
-This work gave me very good exposure to the whole bootstrap framework and Web UI designing.
+This is a small website that I built using Vs studio Code and other basic components as part of my web development studies. Basically, this website provides information about different tourist places in Kerala and The user has the option to log in or sign up to their private accounts(no backend, just UI).
 
-#webdevelopment #fullstackdevelopment #bootstrap #html5 #learnbydoing #webui #meanstack #websitedesign
+#webdevelopment #vs studio code #html5 #learnbydoing #webui #meanstack #websitedesign
 
 Contains :
 1. Login Page
@@ -14,4 +13,3 @@ Contains :
 5. 14 Individual Page for each district (Picture, short description, 2-5 hot tourist spots with photos and name)
 Total: 19 Pages
 
-(Made as an assignment for ICT Academy's FSD programme.)
